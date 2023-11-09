@@ -1,12 +1,12 @@
-## Hi there 👋
+# Foncii
+![Salmon Red Foncii Logo Overlaying a Colorful Food Collage Graphic Background](https://github.com/foncii-org/.github/assets/63657230/4606dc1e-33ca-474d-980a-32546e213bf1)
 
-<!--
+### The modern way for content creators to showcase the places they've visited. Discover countless foodies like yourself & find your next experience now.
 
-**Here are some ideas to get you started:**
+## Become a fellow foodie 🍜
+Follow us on:
+- [Instagram](https://www.instagram.com/feelfoncii)
+- [TikTok](https://www.tiktok.com/@feelfoncii)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Get in touch!
+Check us out on [LinkedIn](https://www.linkedin.com/company/foncii/)!
